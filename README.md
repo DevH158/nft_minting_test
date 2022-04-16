@@ -1,0 +1,1 @@
+# Minting Price Test
